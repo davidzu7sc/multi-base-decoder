@@ -43,7 +43,7 @@ python "Proyecto CI0110.py"
 
 ## Autor
 
-* **[David Zuñiga]** - *Estudiante de Ciencias de la Computación e Informática (UCR)*
+* **David Zuñiga** - *Estudiante de Ciencias de la Computación e Informática (UCR)*
 * **LinkedIn:** [Conecta conmigo en LinkedIn](https://www.linkedin.com/in/david-z%C3%BA%C3%B1iga-torres-872136324/)
 * **GitHub:** [Visita mi perfil de GitHub](https://github.com/davidzu7sc/)
 
