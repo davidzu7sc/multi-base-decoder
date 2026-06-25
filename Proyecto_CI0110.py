@@ -1,10 +1,3 @@
-''' Entregable #3: Programa en Python, Grupo#4
-    Roger Fabricio Valverde Arias - C6N647
-    Matthew Kinkelaar Fuentes - C6H469
-    David Fabian Zúñiga Torres - C6Q167 '''
-
-
-
 from tkinter import filedialog, Tk
 import os 
 
