@@ -48,3 +48,9 @@ python "Proyecto CI0110.py"
 * **GitHub:** [Visita mi perfil de GitHub](https://github.com/davidzu7sc/)
 
 * **Año:** 2026
+
+## Colaboradores
+
+**Este fue un trabajo grupal donde colaboraron:**
+* **Matthew Kinkelaar**
+* **Fabricio Ovares**
